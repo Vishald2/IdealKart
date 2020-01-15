@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdealKart", "IdealKart\IdealKart.csproj", "{4AC66C8D-AE38-4DEE-BEEC-A385430998F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdealKart.Tests", "IdealKart.Tests\IdealKart.Tests.csproj", "{D706258C-94EA-4AAB-9C62-62D8D4C0D63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC66C8D-AE38-4DEE-BEEC-A385430998F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC66C8D-AE38-4DEE-BEEC-A385430998F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC66C8D-AE38-4DEE-BEEC-A385430998F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC66C8D-AE38-4DEE-BEEC-A385430998F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D706258C-94EA-4AAB-9C62-62D8D4C0D63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D706258C-94EA-4AAB-9C62-62D8D4C0D63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D706258C-94EA-4AAB-9C62-62D8D4C0D63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D706258C-94EA-4AAB-9C62-62D8D4C0D63E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79613FC4-5BCD-4ED4-8ABC-A0C6BD0A1A6F}
+	EndGlobalSection
+EndGlobal
